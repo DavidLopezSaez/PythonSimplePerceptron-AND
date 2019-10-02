@@ -4,7 +4,7 @@ This perceptron is able to learn the logical AND gate:
 
 
 
-![AND Gate](https://raw.githubusercontent.com/DavidLopezSaez/PythonSimplePerceptron-AND/master/img/AND-Gate.png)
+![AND Gate](https://github.com/DavidLopezSaez/PythonSimplePerceptron-AND/tree/master/Img/AND-Gate.png)
 
 ## How it works?
 Inside the code we have a tuple called `trainingValues`, it stores the input values and the output of the AND gate.
